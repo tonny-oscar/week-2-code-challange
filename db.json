@@ -1,0 +1,17 @@
+[
+    {
+      "address": "address1",
+      "id": 1,
+      "name": "Karen's Pizza Shack"
+    },
+    {
+      "address": "address2",
+      "id": 2,
+      "name": "Sanjay's Pizza"
+    },
+    {
+      "address": "address3",
+      "id": 3,
+      "name": "Kiki's Pizza"
+    }
+  ]
